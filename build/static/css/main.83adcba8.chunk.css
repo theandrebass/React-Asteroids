@@ -1,0 +1,26 @@
+@import url(https://fonts.googleapis.com/css?family=VT323&display=swap);
+@import url(https://fonts.gstatic.com/s/vt323/v12/pxiKyp0ihIEF2isfFJXUdVNF.woff2);
+
+body {
+    margin: 0;
+    font-family: -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Oxygen, Ubuntu, Cantarell, Fira Sans, Droid Sans, Helvetica Neue, sans-serif;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing:grayscale
+}
+
+code {
+    font-family:source-code-pro, Menlo, Monaco, Consolas, Courier New, monospace
+}
+
+.App {
+    text-align:center
+}
+
+a {
+    font-size:.7em
+}
+
+a, a::hover, a::visited {
+    color: #41ff02
+}
+/*# sourceMappingURL=main.83adcba8.chunk.css.map */

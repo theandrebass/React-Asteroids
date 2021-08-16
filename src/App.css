@@ -1,0 +1,18 @@
+@import url('https://fonts.googleapis.com/css?family=VT323&display=swap');
+
+.App {
+	text-align: center;
+}
+
+a {
+	font-size: 0.7em;
+	color: #41ff02;
+}
+
+a::hover {
+	color: #41ff02;
+}
+
+a::visited {
+	color: #41ff02;
+}
