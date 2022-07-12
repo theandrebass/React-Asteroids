@@ -84,7 +84,7 @@ const App: React.FC = observer(() => {
 				W thrust | A left | D right | SPACE shoot
 			</div>
 			<div style={{ padding: 16 }}>
-				<a href="https://twitter.com/onlyandrebass">@onlyandrebass</a>
+				<a href="https://twitter.com/itsandrebass">@itsandrebass</a>
 			</div>
 		</div>
 	)
