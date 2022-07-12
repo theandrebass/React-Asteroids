@@ -6,4 +6,4 @@
 
 👾 Made with React and [Framer Motion](https://www.framer.com/motion/).
 
-👾 Contact [@onlyandrebass](https://twitter.com/onlyandrebass)
+👾 Contact [@itsandrebass](https://twitter.com/itsandrebass)
